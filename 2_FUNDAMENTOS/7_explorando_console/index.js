@@ -19,9 +19,9 @@ console.count(`Valor de x é: ${x}, contagem`)
 
 //variavel entre string
 
-console.log('O nome é %i, ele é programador', y)
+console.log('O nome é %s, ele(a) é programador', y)
 
 //limpar console 
 setTimeout(()=>{
     console.clear()
-},2000)
+},8000)

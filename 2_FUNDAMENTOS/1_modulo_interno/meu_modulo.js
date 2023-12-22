@@ -1,5 +1,5 @@
 module.exports= {
-     soma (a , b){
+    soma (a , b){
         console.log(a + b)
     }
 }
